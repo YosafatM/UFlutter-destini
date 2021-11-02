@@ -1,5 +1,5 @@
 class Story {
-  String storyTitle, choice1, choice2;
+  final String storyTitle, choice1, choice2;
 
   Story({
     required this.storyTitle,
